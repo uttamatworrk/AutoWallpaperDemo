@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Auto Wallpaper Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="displaying_the_current_wallpaper">This image view for displaying the current wallpaper.</string>
+    <string name="change_wallpaper">Change Wallpaper</string>
+</resources>
